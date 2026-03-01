@@ -1,0 +1,7 @@
+{
+  "name": "Harmonic Simpler",
+  "description": "An AI-powered audio sampler that detects fundamental keys and restricts tuning to harmonic intervals (3rds, 5ths, 6ths). Also generates Ableton Live Python scripts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
